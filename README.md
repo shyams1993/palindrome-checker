@@ -1,6 +1,11 @@
 # palindrome-checker
+
+Palindrome is a type of word that equals the same word even if reversed
+Examples: Malayalam, Amma, Appa etc
+
 Python program to check if the given string is a palindrome or not
 
+Algorithm:
 
 #Get the input string to check
 #convert the input into a list and store it in name1
